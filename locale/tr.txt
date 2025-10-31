@@ -1,0 +1,13 @@
+#: locale=tr
+
+## Media
+
+### Title
+panorama_340BC3E4_38E6_E671_41BD_B8E7E4E02BC2.label = panorama_340E7A06_38DC_35C2_41B4_E9E99F2089DD_hd_t
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 2
